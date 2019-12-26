@@ -1,2 +1,2 @@
 # Bash-scripts
-Beginner bash scripts used in tarminal for learning
+Beginner bash scripts used in terminal for learning
